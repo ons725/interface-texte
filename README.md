@@ -1,1 +1,1 @@
-# interface-texte
+Ce programme Java Swing affiche une fenêtre avec un champ de saisie, un bouton « COPIER » et un champ de sortie. Lorsqu’on clique sur le bouton, le texte écrit dans le premier champ est copié dans le second champ, qui est en lecture seule.
